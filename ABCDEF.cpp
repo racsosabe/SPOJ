@@ -28,7 +28,6 @@ int main(){
 		if(v[i])
 		for(int j=0; j<n; j++){
 			for(int k=0; k<n; k++){
-				//cout << v[i] << " " << v[j] << " " << v[k] << endl;
 				b.pb(v[i]*(v[j]+v[k]));
 			}
 		}
