@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace::std;
 
+// 0.23s AC
+
 int h,a;
 int memo[2001][2001][3];
 
