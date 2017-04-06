@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace::std;
 
+// 0.21s AC
+
 string x, y;
 int d,n,m;
 
