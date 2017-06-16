@@ -1,1 +1,1 @@
-# Estadistica-2017-I
+# SPOJ problems that I could solve :,'v
